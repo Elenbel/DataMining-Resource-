@@ -1,5 +1,5 @@
 # DataMining-Books
-Certainly! Below is a README template tailored for a GitHub repository hosting resources related to the book "Data Mining: Concepts and Techniques" authored by Jiawei Han, Micheline Kamber, and Jian Pei:
+"Data Mining: Concepts and Techniques" authored by Jiawei Han, Micheline Kamber, and Jian Pei:
 
 ---
 
